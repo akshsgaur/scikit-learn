@@ -11,12 +11,12 @@ the target value is expected to be a linear combination of the features.
 In mathematical notation, if :math:`\hat{y}` is the predicted
 value.
 
-.. math::
+.. latex::
+  \begin{equation}
   \hat{y}(w, x) = w_0 + w_1 x_1 + ... + w_p x_p
+  \end{equation}
 
-
-Across the module, we designate the vector :math:`w = (w_1,
-..., w_p)` as ``coef_`` and :math:`w_0` as ``intercept_``.
+Across the module, we designate the vector :math:`w = (w_1, ..., w_p)` as ``coef_`` and :math:`w_0` as ``intercept_``.
 
 To perform classification with generalized linear models, see
 :ref:`Logistic_regression`.
