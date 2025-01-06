@@ -35,7 +35,7 @@ solves a problem of the form:
     
     \min_{w} || X w - y||_2^2
 
-.. figure:: ../auto_examples/linear_model/images/sphx_glr_plot_ols_001.png
+.. figure:: ../images/sphx_glr_plot_ols_001.png
    :target: ../auto_examples/linear_model/plot_ols.html
    :align: center
    :scale: 50%
