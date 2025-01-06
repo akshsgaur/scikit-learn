@@ -61,6 +61,7 @@ extensions = [
     "sphinx.ext.doctest",
     "sphinx.ext.intersphinx",
     "sphinx.ext.imgconverter",
+    "sphinx.ext.mathjax",
     "sphinx_gallery.gen_gallery",
     "sphinx-prompt",
     "sphinx_copybutton",

@@ -31,7 +31,7 @@ of squares between the observed targets in the dataset, and the
 targets predicted by the linear approximation. Mathematically it
 solves a problem of the form:
 
-.. math:: 
+.. math::
     
     \min_{w} || X w - y||_2^2
 
